@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sparshashetty82@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12ALREXnGkPeC3WikDCi-eVRjZ3OFco7N/view?usp=drivesdk](https://drive.google.com/file/d/12ALREXnGkPeC3WikDCi-eVRjZ3OFco7N/view?usp=drivesdk)
+- 📄 Know about my experiences https://docs.google.com/document/d/1cS00SXtLvjnlKcmOAk5KeHJ56_7kDcHlBUWi4tIr9fU/edit?usp=sharing
 
 - ⚡ Fun fact **I am an introvert's nightmare or you can say extreme extrovert.**
 
