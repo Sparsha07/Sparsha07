@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsha Shetty</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, Machine learning**
 
 - 📫 How to reach me **sparshashetty82@gmail.com**
 
